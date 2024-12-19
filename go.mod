@@ -1,4 +1,4 @@
-module go-protos
+module github.com/prippa/go-protos
 
 go 1.23.3
 
